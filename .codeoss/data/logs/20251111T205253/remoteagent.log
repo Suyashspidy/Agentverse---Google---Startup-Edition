@@ -1,0 +1,24 @@
+2025-11-11 20:52:54.135 [info] 
+
+
+
+
+2025-11-11 20:52:54.196 [info] Extension host agent started.
+2025-11-11 20:52:56.466 [info] [127.0.0.1][d8675b3a][ManagementConnection] New connection established.
+2025-11-11 20:52:56.468 [info] [127.0.0.1][a9c75ebe][ExtensionHostConnection] New connection established.
+2025-11-11 20:52:58.586 [info] [127.0.0.1][a9c75ebe][ExtensionHostConnection] <1228> Launched Extension Host Process.
+2025-11-11 20:53:24.632 [error] [File Watcher ('parcel')] Unexpected error: inotify_add_watch on '/home/suyashsaxena015/.cache/cloud-code/cloudcode_cli/cloudcode_cli/9d991cee' failed: No such file or directory (EUNKNOWN) (path: /home/suyashsaxena015)
+2025-11-11 20:53:24.635 [error] [File Watcher (universal)] inotify_add_watch on '/home/suyashsaxena015/.cache/cloud-code/cloudcode_cli/cloudcode_cli/9d991cee' failed: No such file or directory
+2025-11-11 22:51:18.892 [info] [127.0.0.1][d8675b3a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-11-11 22:51:20.478 [info] [127.0.0.1][a9c75ebe][ExtensionHostConnection] <1228> Extension Host Process exited with code: 0, signal: null.
+2025-11-11 23:07:21.961 [info] [127.0.0.1][acf28648][ManagementConnection] New connection established.
+2025-11-11 23:07:21.962 [info] [127.0.0.1][054d2f23][ExtensionHostConnection] New connection established.
+2025-11-11 23:07:21.968 [info] [127.0.0.1][054d2f23][ExtensionHostConnection] <27819> Launched Extension Host Process.
+2025-11-11 23:07:40.077 [info] [127.0.0.1][acf28648][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-11-11 23:07:50.300 [info] [127.0.0.1][054d2f23][ExtensionHostConnection] <27819> Extension Host Process exited with code: 0, signal: null.
+2025-11-11 23:29:56.060 [info] [127.0.0.1][0f4be36d][ManagementConnection] New connection established.
+2025-11-11 23:29:56.075 [info] [127.0.0.1][ee6ecb16][ExtensionHostConnection] New connection established.
+2025-11-11 23:29:56.082 [info] [127.0.0.1][ee6ecb16][ExtensionHostConnection] <30249> Launched Extension Host Process.
+2025-11-11 23:41:56.772 [info] [127.0.0.1][ee6ecb16][ExtensionHostConnection] The client has reconnected.
+2025-11-11 23:41:56.985 [info] [127.0.0.1][0f4be36d][ManagementConnection] The client has reconnected.
+2025-11-11 23:42:37.801 [info] [127.0.0.1][0f4be36d][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

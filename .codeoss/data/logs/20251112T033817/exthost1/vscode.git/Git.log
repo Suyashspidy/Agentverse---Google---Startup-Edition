@@ -1,0 +1,132 @@
+2025-11-12 03:38:35.661 [info] [main] Log level: Info
+2025-11-12 03:38:35.661 [info] [main] Validating found git in: "git"
+2025-11-12 03:38:35.661 [info] [main] Using git "2.43.0" from "git"
+2025-11-12 03:38:35.661 [info] [Model][doInitialScan] Initial repository scan started
+2025-11-12 03:38:35.661 [info] > git rev-parse --show-toplevel [68ms]
+2025-11-12 03:38:35.661 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-12 03:38:35.661 [info] > git rev-parse --show-toplevel [1208ms]
+2025-11-12 03:38:35.678 [info] > git rev-parse --git-dir --git-common-dir [62ms]
+2025-11-12 03:38:35.726 [info] [Model][openRepository] Opened repository (path): /home/suyashsaxena015/agentverse-architect
+2025-11-12 03:38:35.726 [info] [Model][openRepository] Opened repository (real path): /home/suyashsaxena015/agentverse-architect
+2025-11-12 03:38:35.815 [info] > git config --get commit.template [53ms]
+2025-11-12 03:38:36.032 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [97ms]
+2025-11-12 03:38:36.092 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/suyashsaxena015/agentverse-architect/.git/refs/remotes/origin/main'
+2025-11-12 03:38:36.183 [info] > git rev-parse refs/remotes/origin/main [91ms]
+2025-11-12 03:38:36.422 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [169ms]
+2025-11-12 03:38:36.469 [info] > git status -z -uall [255ms]
+2025-11-12 03:38:36.470 [info] > git rev-parse --show-toplevel [56ms]
+2025-11-12 03:38:36.470 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-12 03:38:40.070 [info] > git check-ignore -v -z --stdin [3127ms]
+2025-11-12 03:38:40.077 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3170ms]
+2025-11-12 03:38:40.100 [info] > git rev-parse --show-toplevel [3593ms]
+2025-11-12 03:38:40.100 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-12 03:38:40.205 [info] > git config --get --local branch.main.vscode-merge-base [106ms]
+2025-11-12 03:38:40.236 [info] > git config --get commit.template [389ms]
+2025-11-12 03:38:40.244 [info] > git rev-parse --show-toplevel [42ms]
+2025-11-12 03:38:40.244 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-12 03:38:40.294 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [58ms]
+2025-11-12 03:38:40.331 [info] > git rev-parse --show-toplevel [37ms]
+2025-11-12 03:38:40.331 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-12 03:38:40.332 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [65ms]
+2025-11-12 03:38:40.377 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/suyashsaxena015/agentverse-architect/.git/refs/remotes/origin/main'
+2025-11-12 03:38:40.390 [info] > git merge-base refs/heads/main refs/remotes/origin/main [68ms]
+2025-11-12 03:38:40.424 [info] > git rev-parse refs/remotes/origin/main [47ms]
+2025-11-12 03:38:40.482 [info] > git rev-parse --show-toplevel [124ms]
+2025-11-12 03:38:40.483 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-12 03:38:40.491 [info] > git diff --name-status -z --diff-filter=ADMR f76a97da7e2f60a7e057ddc274b893a0bacb4c3f...refs/remotes/origin/main [77ms]
+2025-11-12 03:38:40.530 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [50ms]
+2025-11-12 03:38:40.557 [info] > git rev-parse --show-toplevel [22ms]
+2025-11-12 03:38:40.557 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-12 03:38:40.559 [info] > git status -z -uall [113ms]
+2025-11-12 03:38:42.640 [info] > git rev-parse --show-toplevel [86ms]
+2025-11-12 03:38:42.640 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-12 03:38:42.693 [info] > git rev-parse --show-toplevel [8ms]
+2025-11-12 03:38:42.694 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-12 03:38:42.716 [info] > git rev-parse --show-toplevel [5ms]
+2025-11-12 03:38:42.716 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-12 03:38:42.762 [info] > git rev-parse --show-toplevel [32ms]
+2025-11-12 03:38:42.775 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-11-12 03:38:42.781 [info] [Model][openRepository] Opened repository (path): /home/suyashsaxena015/accelerate-ai-lab3-starter
+2025-11-12 03:38:42.781 [info] [Model][openRepository] Opened repository (real path): /home/suyashsaxena015/accelerate-ai-lab3-starter
+2025-11-12 03:38:42.813 [info] > git config --get commit.template [16ms]
+2025-11-12 03:38:42.833 [info] > git rev-parse --show-toplevel [24ms]
+2025-11-12 03:38:42.847 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-11-12 03:38:42.853 [info] [Model][openRepository] Opened repository (path): /home/suyashsaxena015/agentverse-dataengineer
+2025-11-12 03:38:42.853 [info] [Model][openRepository] Opened repository (real path): /home/suyashsaxena015/agentverse-dataengineer
+2025-11-12 03:38:42.884 [info] > git config --get commit.template [17ms]
+2025-11-12 03:38:42.886 [info] > git rev-parse --show-toplevel [5ms]
+2025-11-12 03:38:42.917 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [89ms]
+2025-11-12 03:38:42.933 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/suyashsaxena015/accelerate-ai-lab3-starter/.git/refs/remotes/origin/main'
+2025-11-12 03:38:42.934 [info] > git rev-parse --git-dir --git-common-dir [21ms]
+2025-11-12 03:38:42.941 [info] [Model][openRepository] Opened repository (path): /home/suyashsaxena015/agentverse-dungeon
+2025-11-12 03:38:42.941 [info] [Model][openRepository] Opened repository (real path): /home/suyashsaxena015/agentverse-dungeon
+2025-11-12 03:38:42.975 [info] > git rev-parse refs/remotes/origin/main [42ms]
+2025-11-12 03:38:43.040 [info] > git rev-parse --show-toplevel [63ms]
+2025-11-12 03:38:43.040 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-12 03:38:43.041 [info] > git config --get commit.template [83ms]
+2025-11-12 03:38:43.041 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [144ms]
+2025-11-12 03:38:43.100 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/suyashsaxena015/agentverse-dataengineer/.git/refs/remotes/origin/main'
+2025-11-12 03:38:43.106 [info] > git status -z -uall [98ms]
+2025-11-12 03:38:43.108 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [73ms]
+2025-11-12 03:38:43.230 [info] > git rev-parse refs/remotes/origin/main [130ms]
+2025-11-12 03:38:43.267 [info] > git rev-parse --show-toplevel [196ms]
+2025-11-12 03:38:43.267 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-12 03:38:43.268 [info] [Model][doInitialScan] Initial repository scan completed - repositories (4), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-11-12 03:38:43.324 [info] > git status -z -uall [78ms]
+2025-11-12 03:38:43.324 [info] > git show --textconv :mcp-servers/api/main.py [39ms]
+2025-11-12 03:38:43.324 [info] > git ls-files --stage -- mcp-servers/api/main.py [22ms]
+2025-11-12 03:38:43.338 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [72ms]
+2025-11-12 03:38:43.371 [info] > git config --get commit.template [154ms]
+2025-11-12 03:38:43.371 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [178ms]
+2025-11-12 03:38:43.372 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [215ms]
+2025-11-12 03:38:43.438 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/suyashsaxena015/agentverse-dungeon/.git/refs/remotes/origin/main'
+2025-11-12 03:38:43.445 [info] > git config --get --local branch.main.vscode-merge-base [53ms]
+2025-11-12 03:38:43.468 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [102ms]
+2025-11-12 03:38:43.493 [info] > git cat-file -s 8dfc5d33ad3a54c32ca832caec44546c63de6f93 [156ms]
+2025-11-12 03:38:43.538 [info] > git config --get --local branch.main.vscode-merge-base [45ms]
+2025-11-12 03:38:43.564 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [98ms]
+2025-11-12 03:38:43.591 [info] > git rev-parse refs/remotes/origin/main [153ms]
+2025-11-12 03:38:43.639 [info] > git config --get commit.template [216ms]
+2025-11-12 03:38:43.660 [info] > git merge-base refs/heads/main refs/remotes/origin/main [70ms]
+2025-11-12 03:38:43.686 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [123ms]
+2025-11-12 03:38:43.718 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [194ms]
+2025-11-12 03:38:43.753 [info] > git diff --name-status -z --diff-filter=ADMR 6db4c82825871736b816d4684c54ab35b0725a36...refs/remotes/origin/main [67ms]
+2025-11-12 03:38:43.756 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [117ms]
+2025-11-12 03:38:43.782 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/suyashsaxena015/accelerate-ai-lab3-starter/.git/refs/remotes/origin/main'
+2025-11-12 03:38:43.789 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [44ms]
+2025-11-12 03:38:43.790 [info] > git merge-base refs/heads/main refs/remotes/origin/main [73ms]
+2025-11-12 03:38:43.853 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/suyashsaxena015/agentverse-dataengineer/.git/refs/remotes/origin/main'
+2025-11-12 03:38:43.880 [info] > git rev-parse refs/remotes/origin/main [98ms]
+2025-11-12 03:38:43.993 [info] > git status -z -uall [87ms]
+2025-11-12 03:38:43.996 [info] > git check-ignore -v -z --stdin [37ms]
+2025-11-12 03:38:44.000 [info] > git check-ignore -v -z --stdin [12ms]
+2025-11-12 03:38:44.007 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [75ms]
+2025-11-12 03:38:44.016 [info] > git rev-parse refs/remotes/origin/main [163ms]
+2025-11-12 03:38:44.056 [info] > git diff --name-status -z --diff-filter=ADMR 004d46cef0fbc83f607b3e6901458e2c87c80d0e...refs/remotes/origin/main [241ms]
+2025-11-12 03:38:44.064 [info] > git status -z -uall [28ms]
+2025-11-12 03:38:44.083 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [28ms]
+2025-11-12 03:38:44.092 [info] > git blame --root --incremental f76a97da7e2f60a7e057ddc274b893a0bacb4c3f -- mcp-servers/api/main.py [10ms]
+2025-11-12 03:38:45.210 [info] > git status -z -uall [1594ms]
+2025-11-12 03:38:45.295 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [49ms]
+2025-11-12 03:38:45.323 [info] > git config --get commit.template [38ms]
+2025-11-12 03:38:45.334 [info] > git config --get --local branch.main.vscode-merge-base [20ms]
+2025-11-12 03:38:45.400 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2025-11-12 03:38:45.400 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [47ms]
+2025-11-12 03:38:45.430 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/suyashsaxena015/agentverse-dungeon/.git/refs/remotes/origin/main'
+2025-11-12 03:38:45.442 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2025-11-12 03:38:45.491 [info] > git merge-base refs/heads/main refs/remotes/origin/main [75ms]
+2025-11-12 03:38:45.524 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [34ms]
+2025-11-12 03:38:45.526 [info] > git diff --name-status -z --diff-filter=ADMR 3e70c97edc83c809496f50f50084f830c31756e9...refs/remotes/origin/main [8ms]
+2025-11-12 03:38:45.717 [info] > git status -z -uall [260ms]

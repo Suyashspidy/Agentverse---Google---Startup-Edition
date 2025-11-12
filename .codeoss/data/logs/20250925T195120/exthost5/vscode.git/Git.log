@@ -1,0 +1,64 @@
+2025-09-25 22:11:13.415 [info] [main] Log level: Info
+2025-09-25 22:11:13.415 [info] [main] Validating found git in: "git"
+2025-09-25 22:11:13.415 [info] [main] Using git "2.43.0" from "git"
+2025-09-25 22:11:13.415 [info] [Model][doInitialScan] Initial repository scan started
+2025-09-25 22:11:13.415 [info] > git rev-parse --show-toplevel [9746ms]
+2025-09-25 22:11:13.415 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-25 22:11:13.415 [info] > git rev-parse --show-toplevel [1124ms]
+2025-09-25 22:11:13.444 [info] > git rev-parse --git-dir --git-common-dir [48ms]
+2025-09-25 22:11:13.471 [info] [Model][openRepository] Opened repository (path): /home/suyashsaxena015/accelerate-ai-lab3-starter
+2025-09-25 22:11:13.472 [info] [Model][openRepository] Opened repository (real path): /home/suyashsaxena015/accelerate-ai-lab3-starter
+2025-09-25 22:11:13.540 [info] > git config --get commit.template [46ms]
+2025-09-25 22:11:13.626 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [33ms]
+2025-09-25 22:11:13.667 [info] > git rev-parse --show-toplevel [46ms]
+2025-09-25 22:11:13.667 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-25 22:11:13.684 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/suyashsaxena015/accelerate-ai-lab3-starter/.git/refs/remotes/origin/main'
+2025-09-25 22:11:13.801 [info] > git rev-parse --show-toplevel [31ms]
+2025-09-25 22:11:13.803 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-25 22:11:13.804 [info] > git rev-parse refs/remotes/origin/main [119ms]
+2025-09-25 22:11:13.945 [info] > git status -z -uall [96ms]
+2025-09-25 22:11:13.955 [info] > git rev-parse --show-toplevel [13ms]
+2025-09-25 22:11:13.956 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-25 22:11:13.957 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [56ms]
+2025-09-25 22:11:14.261 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [237ms]
+2025-09-25 22:11:14.385 [info] > git check-ignore -v -z --stdin [22ms]
+2025-09-25 22:11:14.391 [info] > git config --get --local branch.main.vscode-merge-base [86ms]
+2025-09-25 22:11:14.426 [info] > git config --get commit.template [303ms]
+2025-09-25 22:11:14.427 [info] > git rev-parse --show-toplevel [353ms]
+2025-09-25 22:11:14.427 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-25 22:11:14.438 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [14ms]
+2025-09-25 22:11:14.580 [info] > git rev-parse --show-toplevel [62ms]
+2025-09-25 22:11:14.581 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-25 22:11:14.583 [info] > git merge-base refs/heads/main refs/remotes/origin/main [102ms]
+2025-09-25 22:11:14.664 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [103ms]
+2025-09-25 22:11:14.679 [info] > git rev-parse --show-toplevel [15ms]
+2025-09-25 22:11:14.681 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-25 22:11:14.682 [info] > git diff --name-status -z --diff-filter=ADMR 6db4c82825871736b816d4684c54ab35b0725a36...refs/remotes/origin/main [64ms]
+2025-09-25 22:11:14.714 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/suyashsaxena015/accelerate-ai-lab3-starter/.git/refs/remotes/origin/main'
+2025-09-25 22:11:14.766 [info] > git rev-parse refs/remotes/origin/main [52ms]
+2025-09-25 22:11:14.849 [info] > git status -z -uall [44ms]
+2025-09-25 22:11:14.852 [info] > git rev-parse --show-toplevel [95ms]
+2025-09-25 22:11:14.853 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-25 22:11:14.898 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [58ms]
+2025-09-25 22:11:14.936 [info] > git rev-parse --show-toplevel [40ms]
+2025-09-25 22:11:14.936 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-25 22:11:14.993 [info] > git rev-parse --show-toplevel [21ms]
+2025-09-25 22:11:14.994 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-25 22:11:15.047 [info] > git rev-parse --show-toplevel [20ms]
+2025-09-25 22:11:15.047 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-25 22:11:15.048 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-09-25 22:11:15.129 [info] > git show --textconv :adk-agent/elasticity_test.py [43ms]
+2025-09-25 22:11:15.136 [info] > git ls-files --stage -- adk-agent/elasticity_test.py [11ms]
+2025-09-25 22:11:15.185 [info] > git cat-file -s da06f8a1db8c1c3b841257f353ad97b1f7fd88dd [15ms]
+2025-09-25 22:11:15.436 [info] > git blame --root --incremental 6db4c82825871736b816d4684c54ab35b0725a36 -- adk-agent/elasticity_test.py [10ms]

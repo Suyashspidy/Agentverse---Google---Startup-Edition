@@ -1,0 +1,36 @@
+2025-09-25 23:42:50.155 [info] Extension host with pid 1627 started
+2025-09-25 23:42:50.161 [error] Error: EEXIST: file already exists, open '/home/suyashsaxena015/.codeoss/data/User/workspaceStorage/-19b1d5a3/vscode.lock'
+2025-09-25 23:42:50.161 [info] Lock '/home/suyashsaxena015/.codeoss/data/User/workspaceStorage/-19b1d5a3/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-09-25 23:42:50.219 [info] Lock '/home/suyashsaxena015/.codeoss/data/User/workspaceStorage/-19b1d5a3/vscode.lock': The lock does not look stale, elapsed: 5461 ms, giving up.
+2025-09-25 23:42:50.567 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onView:cloudcode.gemini.chatView'
+2025-09-25 23:42:50.573 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-09-25 23:42:50.573 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2025-09-25 23:42:50.579 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-25 23:42:50.579 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-25 23:42:50.580 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-25 23:42:58.580 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-25 23:42:58.640 [error] Error: EEXIST: file already exists, open '/home/suyashsaxena015/.codeoss/data/User/workspaceStorage/-19b1d5a3-1/vscode.lock'
+2025-09-25 23:42:58.879 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onTerminalProfile:cloudshell.default'
+2025-09-25 23:42:59.082 [info] Lock '/home/suyashsaxena015/.codeoss/data/User/workspaceStorage/-19b1d5a3-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-09-25 23:42:59.085 [info] Lock '/home/suyashsaxena015/.codeoss/data/User/workspaceStorage/-19b1d5a3-1/vscode.lock': The pid 10353 appears to be gone.
+2025-09-25 23:42:59.085 [info] Lock '/home/suyashsaxena015/.codeoss/data/User/workspaceStorage/-19b1d5a3-1/vscode.lock': Deleting a stale lock.
+2025-09-25 23:42:59.096 [info] Lock '/home/suyashsaxena015/.codeoss/data/User/workspaceStorage/-19b1d5a3-1/vscode.lock': Lock acquired.
+2025-09-25 23:42:59.717 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-25 23:42:59.717 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-25 23:43:00.739 [error] Error: spawn /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python-env-tools/bin/pet ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+	at onErrorNT (node:internal/child_process:483:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-09-25 23:43:02.362 [info] Eager extensions activated
+2025-09-25 23:43:02.363 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-09-25 23:43:02.373 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2025-09-25 23:43:02.374 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-25 23:43:02.375 [info] ExtensionService#_doActivateExtension google.gemini-cli-vscode-ide-companion, startup: false, activationEvent: 'onStartupFinished'
+2025-09-25 23:43:02.375 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-25 23:43:20.463 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-09-25 23:43:58.035 [error] Error: ENOENT: no such file or directory, utime '/home/suyashsaxena015/.cache/cloud-code/CLOUDCODE_BINARY_FROM_ZIP_LOCK'
+    at Object.Date [as utimes] (node:internal/fs/promises:1127:10)
+    at Timeout._onTimeout (/google/devshell/editor/code-oss-for-cloud-shell/extensions/geminicodeassist/dist/webpack:/common/packages/utils/lockfile.ts:71:27)
+2025-09-25 23:43:59.631 [error] Error: ENOENT: no such file or directory, utime '/home/suyashsaxena015/.cache/cloud-code/CLOUDCODE_BINARY_FROM_ZIP_LOCK'
+    at Object.Date [as utimes] (node:internal/fs/promises:1127:10)
+    at Timeout._onTimeout (/google/devshell/editor/code-oss-for-cloud-shell/extensions/geminicodeassist/dist/webpack:/common/packages/utils/lockfile.ts:71:27)

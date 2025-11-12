@@ -1,0 +1,35 @@
+2025-11-11 23:30:18.030 [warning] Dir "/home/suyashsaxena015/.pixi/envs" is not watchable (directory does not exist)
+2025-11-11 23:30:18.030 [info] Starting Environment refresh
+2025-11-11 23:30:18.030 [info] Searching for interpreters in posix paths locator
+2025-11-11 23:30:18.030 [info] Searching for pyenv environments
+2025-11-11 23:30:18.030 [info] Searching for conda environments
+2025-11-11 23:30:18.030 [info] Searching for global virtual environments
+2025-11-11 23:30:18.030 [info] Searching for custom virtual environments
+2025-11-11 23:30:18.030 [info] pyenv is not installed
+2025-11-11 23:30:18.030 [info] Finished searching for pyenv environments: 127 milliseconds
+2025-11-11 23:30:18.030 [info] Finished searching for custom virtual envs: 121 milliseconds
+2025-11-11 23:30:18.030 [info] > conda info --json
+2025-11-11 23:30:18.030 [info] > hatch env show --json
+2025-11-11 23:30:18.030 [info] cwd: .
+2025-11-11 23:30:18.030 [info] > pyenv which python
+2025-11-11 23:30:18.030 [info] cwd: .
+2025-11-11 23:30:18.030 [info] Finished searching for global virtual envs: 362 milliseconds
+2025-11-11 23:30:18.040 [info] Found: /bin/python --> /bin/python3.12
+2025-11-11 23:30:18.059 [info] Found: /bin/python3 --> /bin/python3.12
+2025-11-11 23:30:18.063 [info] Found: /bin/python3.12 --> /bin/python3.12
+2025-11-11 23:30:18.270 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2025-11-11 23:30:18.317 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2025-11-11 23:30:18.321 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2025-11-11 23:30:18.620 [info] Finished searching for interpreters in posix paths locator: 965 milliseconds
+2025-11-11 23:30:18.620 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-11-11 23:30:18.809 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-11-11 23:30:18.809 [info] Environments refresh paths discovered (event): 1217 milliseconds
+2025-11-11 23:30:18.810 [info] Environments refresh paths discovered: 1217 milliseconds
+2025-11-11 23:30:18.952 [info] Environments refresh finished (event): 1360 milliseconds
+2025-11-11 23:30:18.987 [info] Environment refresh took 1397 milliseconds
+2025-11-11 23:30:19.553 [info] Python interpreter path: /bin/python
+2025-11-11 23:30:25.290 [info] Starting Jedi language server for suyashsaxena015.
+2025-11-11 23:30:28.747 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/mcp-servers/api/main.py
+2025-11-11 23:30:29.194 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/mcp-servers/api/main.py
+2025-11-11 23:30:30.843 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/mcp-servers/api/main.py
+2025-11-11 23:31:04.961 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/mcp-servers/api/main.py

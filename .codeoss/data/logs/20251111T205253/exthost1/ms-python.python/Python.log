@@ -1,0 +1,98 @@
+2025-11-11 21:50:30.357 [warning] Dir "/home/suyashsaxena015/.pixi/envs" is not watchable (directory does not exist)
+2025-11-11 21:50:30.357 [info] Starting Environment refresh
+2025-11-11 21:50:30.357 [info] Searching for interpreters in posix paths locator
+2025-11-11 21:50:30.357 [info] Searching for pyenv environments
+2025-11-11 21:50:30.357 [info] Searching for conda environments
+2025-11-11 21:50:30.357 [info] Searching for global virtual environments
+2025-11-11 21:50:30.357 [info] Searching for custom virtual environments
+2025-11-11 21:50:30.357 [info] pyenv is not installed
+2025-11-11 21:50:30.357 [info] Finished searching for pyenv environments: 53 milliseconds
+2025-11-11 21:50:30.357 [info] Finished searching for custom virtual envs: 51 milliseconds
+2025-11-11 21:50:30.357 [info] > conda info --json
+2025-11-11 21:50:30.357 [info] > hatch env show --json
+2025-11-11 21:50:30.357 [info] cwd: .
+2025-11-11 21:50:30.357 [info] > pyenv which python
+2025-11-11 21:50:30.357 [info] cwd: .
+2025-11-11 21:50:30.357 [info] Finished searching for global virtual envs: 115 milliseconds
+2025-11-11 21:50:30.374 [info] Found: /bin/python --> /bin/python3.12
+2025-11-11 21:50:30.446 [info] Found: /bin/python3 --> /bin/python3.12
+2025-11-11 21:50:30.476 [info] Found: /bin/python3.12 --> /bin/python3.12
+2025-11-11 21:50:30.744 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2025-11-11 21:50:30.843 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2025-11-11 21:50:30.874 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2025-11-11 21:50:31.131 [info] Finished searching for interpreters in posix paths locator: 912 milliseconds
+2025-11-11 21:50:31.131 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-11-11 21:50:31.168 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-11-11 21:50:31.168 [info] Environments refresh paths discovered (event): 966 milliseconds
+2025-11-11 21:50:31.168 [info] Environments refresh paths discovered: 966 milliseconds
+2025-11-11 21:50:31.328 [info] Environments refresh finished (event): 1126 milliseconds
+2025-11-11 21:50:31.365 [info] Environment refresh took 1162 milliseconds
+2025-11-11 21:50:31.385 [info] Python interpreter path: /bin/python
+2025-11-11 21:50:35.637 [info] Starting Jedi language server for suyashsaxena015.
+2025-11-11 21:51:28.598 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:51:30.279 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:51:39.805 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:51:43.632 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:51:44.704 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:51:46.617 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:51:50.242 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:51:58.139 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:52:08.456 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:52:57.212 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:52:58.914 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:53:13.994 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:53:15.414 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:53:50.382 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:54:13.608 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:54:29.399 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:54:33.051 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:54:36.304 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:54:39.235 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:54:41.326 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:54:43.544 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:54:46.671 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:55:01.967 [info] Discover tests for workspace name: undefined - uri: /User/settings.json
+2025-11-11 21:56:18.650 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:56:27.279 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:58:14.453 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:58:18.257 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:58:19.812 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:58:24.682 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:58:38.279 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:58:40.042 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 21:58:42.696 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:00:13.771 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:00:34.995 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:00:43.685 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:00:53.133 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:00:54.456 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:01:42.536 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:01:43.642 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:01:58.540 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:02:00.163 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:02:05.648 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:02:24.786 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:02:33.998 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:02:43.703 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:05:56.573 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/pipeline/inscribe_essence_pipeline.py
+2025-11-11 22:30:11.155 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:30:12.299 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:30:21.055 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:30:22.840 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:30:33.572 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:30:38.396 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:30:41.577 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:30:45.602 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:30:58.575 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:31:34.163 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:31:39.747 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:31:48.608 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:31:52.254 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:31:54.708 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:31:57.253 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:32:00.423 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:32:03.289 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:32:38.604 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:33:09.459 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/scholar/agent.py
+2025-11-11 22:33:48.300 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/env/lib/python3.12/site-packages/numpy/f2py/setup.cfg
+2025-11-11 22:33:51.729 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-dataengineer/env/lib/python3.12/site-packages/numpy/f2py/setup.cfg

@@ -1,0 +1,23 @@
+[
+  {
+    "sessionId": "6181d8f3-f09a-45e1-aae5-e4dd23d9f11f",
+    "messageId": 0,
+    "type": "user",
+    "message": "where can i find penguin?",
+    "timestamp": "2025-09-25T18:25:20.135Z"
+  },
+  {
+    "sessionId": "6181d8f3-f09a-45e1-aae5-e4dd23d9f11f",
+    "messageId": 1,
+    "type": "user",
+    "message": "/quit",
+    "timestamp": "2025-09-25T18:27:12.384Z"
+  },
+  {
+    "sessionId": "cb6bb4a3-9a0f-4ba9-8feb-1d264d1578f8",
+    "messageId": 0,
+    "type": "user",
+    "message": "/find --animal=\"lions\"",
+    "timestamp": "2025-09-25T18:33:34.155Z"
+  }
+]

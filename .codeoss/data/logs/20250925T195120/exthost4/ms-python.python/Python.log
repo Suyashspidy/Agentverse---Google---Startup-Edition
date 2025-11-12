@@ -1,0 +1,10 @@
+2025-09-25 21:31:05.839 [warning] Dir "/home/suyashsaxena015/.pixi/envs" is not watchable (directory does not exist)
+2025-09-25 21:31:05.939 [info] Python interpreter path: /bin/python
+2025-09-25 21:31:06.033 [info] > pyenv which python
+2025-09-25 21:31:06.033 [info] cwd: .
+2025-09-25 21:31:08.432 [info] Starting Jedi language server for suyashsaxena015.
+2025-09-25 21:31:14.923 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/accelerate-ai-lab3-starter/adk-agent/production_agent/agent.py
+2025-09-25 21:31:24.133 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/accelerate-ai-lab3-starter/adk-agent/production_agent/agent.py
+2025-09-25 21:33:33.458 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/accelerate-ai-lab3-starter/adk-agent/server.py
+2025-09-25 21:49:06.580 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/accelerate-ai-lab3-starter/adk-agent/elasticity_test.py
+2025-09-25 21:49:37.675 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/.cache/uv/.tmpt85Z3k/numpy/f2py/setup.cfg

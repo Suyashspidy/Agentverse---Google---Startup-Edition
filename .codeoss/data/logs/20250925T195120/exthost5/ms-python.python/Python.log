@@ -1,0 +1,5 @@
+2025-09-25 22:11:12.196 [warning] Dir "/home/suyashsaxena015/.pixi/envs" is not watchable (directory does not exist)
+2025-09-25 22:11:12.197 [info] Python interpreter path: /bin/python
+2025-09-25 22:11:12.766 [info] > pyenv which python
+2025-09-25 22:11:12.766 [info] cwd: .
+2025-09-25 22:11:16.825 [info] Starting Jedi language server for suyashsaxena015.

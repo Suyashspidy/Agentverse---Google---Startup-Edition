@@ -1,0 +1,2 @@
+[Error - 11:43:38 PM] (node:3338) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)

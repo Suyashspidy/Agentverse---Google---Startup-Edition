@@ -1,0 +1,61 @@
+2025-09-25 19:51:42.004 [warning] Dir "/home/suyashsaxena015/.pixi/envs" is not watchable (directory does not exist)
+2025-09-25 19:51:42.005 [info] Python interpreter path: /bin/python
+2025-09-25 19:51:58.030 [info] > pyenv which python
+2025-09-25 19:51:58.030 [info] cwd: .
+2025-09-25 19:52:07.395 [info] Starting Jedi language server for suyashsaxena015.
+2025-09-25 20:13:38.788 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/suyashsaxena015/zoo_guide_agent/requirements.txt
+2025-09-25 20:13:38.847 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./zoo_guide_agent/requirements.txt
+2025-09-25 20:13:44.214 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/suyashsaxena015/zoo_guide_agent/requirements.txt
+2025-09-25 20:13:44.214 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./zoo_guide_agent/requirements.txt
+2025-09-25 20:15:58.794 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/zoo_guide_agent/__init__.py
+2025-09-25 20:16:25.186 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/zoo_guide_agent/agent.py
+2025-09-25 20:17:27.232 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/zoo_guide_agent/agent.py
+2025-09-25 20:18:00.352 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/zoo_guide_agent/agent.py
+2025-09-25 20:22:17.488 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/zoo_guide_agent/agent.py
+2025-09-25 20:22:18.596 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/zoo_guide_agent/agent.py
+2025-09-25 20:24:15.764 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/zoo_guide_agent/agent.py
+2025-09-25 20:24:17.398 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/zoo_guide_agent/agent.py
+2025-09-25 20:25:18.846 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/zoo_guide_agent/agent.py
+2025-09-25 20:25:20.260 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/zoo_guide_agent/agent.py
+2025-09-25 20:25:21.491 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/zoo_guide_agent/agent.py
+2025-09-25 20:29:48.370 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/.cache/uv/.tmp08nmeY/numpy/f2py/setup.cfg

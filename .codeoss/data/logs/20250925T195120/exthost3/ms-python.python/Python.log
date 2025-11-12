@@ -1,0 +1,29 @@
+2025-09-25 20:11:08.259 [warning] Dir "/home/suyashsaxena015/.pixi/envs" is not watchable (directory does not exist)
+2025-09-25 20:11:08.259 [info] Python interpreter path: /bin/python
+2025-09-25 20:11:08.373 [info] > pyenv which python
+2025-09-25 20:11:08.373 [info] cwd: .
+2025-09-25 20:11:17.083 [info] Starting Jedi language server for suyashsaxena015.
+2025-09-25 20:13:27.348 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/suyashsaxena015/zoo_guide_agent/requirements.txt
+2025-09-25 20:13:27.349 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./zoo_guide_agent/requirements.txt
+2025-09-25 20:29:48.405 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/.cache/uv/.tmp08nmeY/numpy/f2py/setup.cfg
+2025-09-25 21:49:37.860 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/.cache/uv/.tmpt85Z3k/numpy/f2py/setup.cfg

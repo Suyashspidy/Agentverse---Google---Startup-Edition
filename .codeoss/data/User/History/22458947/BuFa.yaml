@@ -1,0 +1,14 @@
+#REPLACE-Source
+sources:
+  # This section defines the connection to our Cloud SQL for PostgreSQL database.
+  summoner-librarium:
+    kind: cloud-sql-postgres
+    project: "agentverse-summoner-aluu4pgcqi"
+    region: "us-central1"
+    instance: "summoner-librarium-db"
+    database: "familiar_grimoire"
+    user: "summoner"
+    password: "1234qwer"
+#REPLACE-tools
+
+#REPLACE-toolsets

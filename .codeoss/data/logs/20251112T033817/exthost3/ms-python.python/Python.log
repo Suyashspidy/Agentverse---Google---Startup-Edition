@@ -1,0 +1,36 @@
+2025-11-12 04:27:33.485 [warning] Dir "/home/suyashsaxena015/.pixi/envs" is not watchable (directory does not exist)
+2025-11-12 04:27:33.593 [info] Python interpreter path: /bin/python
+2025-11-12 04:27:33.651 [info] > pyenv which python
+2025-11-12 04:27:33.651 [info] cwd: .
+2025-11-12 04:27:35.896 [info] Starting Jedi language server for suyashsaxena015.
+2025-11-12 04:27:49.635 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/fire/agent.py
+2025-11-12 04:28:06.562 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/fire/agent.py
+2025-11-12 04:28:23.974 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/fire/agent.py
+2025-11-12 04:33:12.236 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/water/agent.py
+2025-11-12 04:33:31.078 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/water/agent.py
+2025-11-12 04:33:42.083 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/water/agent.py
+2025-11-12 04:43:12.233 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/earth/agent.py
+2025-11-12 04:43:26.413 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/earth/agent.py
+2025-11-12 04:43:39.591 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/earth/agent.py
+2025-11-12 04:46:28.350 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/fire/agent.py
+2025-11-12 04:46:29.570 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/fire/agent.py
+2025-11-12 04:47:06.919 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/water/agent.py
+2025-11-12 04:47:14.005 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/earth/agent.py
+2025-11-12 04:48:15.808 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/summoner/agent.py
+2025-11-12 04:48:37.646 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/summoner/agent.py
+2025-11-12 04:48:38.921 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/summoner/agent.py
+2025-11-12 05:01:07.245 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/earth/agent.py
+2025-11-12 05:02:52.517 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/earth/agent.py
+2025-11-12 05:05:10.239 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/cooldown_plugin.py
+2025-11-12 05:05:11.437 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/cooldown_plugin.py
+2025-11-12 05:05:53.235 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/earth/agent.py
+2025-11-12 05:06:52.934 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/agent_to_a2a.py
+2025-11-12 05:07:23.377 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/agent_to_a2a.py
+2025-11-12 05:07:24.556 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/agent_to_a2a.py
+2025-11-12 05:16:48.686 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/summoner/agent.py
+2025-11-12 05:16:51.258 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/summoner/agent.py
+2025-11-12 05:17:23.856 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/summoner/agent.py
+2025-11-12 05:17:25.016 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/summoner/agent.py
+2025-11-12 05:18:02.212 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/summoner/agent.py
+2025-11-12 05:18:07.453 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/summoner/agent.py
+2025-11-12 05:18:25.692 [info] Discover tests for workspace name: suyashsaxena015 - uri: /home/suyashsaxena015/agentverse-architect/agent/summoner/agent.py
